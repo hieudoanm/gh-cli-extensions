@@ -1,5 +1,7 @@
 # GitHub CLI Extensions
 
+[GitHub CLI](https://cli.github.com/)
+
 - [GitHub CLI Extensions](#github-cli-extensions)
   - [Extensions](#extensions)
   - [Commands](#commands)
